@@ -1,6 +1,8 @@
 
 ### See this template in action!
 
+[Actor Resume](https://guildfordwebservices.github.io/actor-resume/)
+
 ### Actor Resume Template
  An Actor or entertainer's resume basic template using Bootstrap
  
