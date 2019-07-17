@@ -1,4 +1,4 @@
-### Actor Resume Teplate
+### Actor Resume Template
  An Actor or entertainer's resume basic template using Bootstrap
  
  This template can be modified using the custom gws.css to add new classes to the template.
