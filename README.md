@@ -13,3 +13,8 @@ Start Bootstrap is an open source library of free Bootstrap templates and themes
 
     https://startbootstrap.com
     https://twitter.com/SBootstrap
+
+
+## Copyright and License
+
+Copyright 2019 Guildford Web Services Ltd. Code released under the MIT license.
